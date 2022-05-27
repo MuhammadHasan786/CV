@@ -6,3 +6,6 @@ body{
 h1{
     border: 1px #fff;
 }
+p{
+    border:solid 1px #fff;
+}
